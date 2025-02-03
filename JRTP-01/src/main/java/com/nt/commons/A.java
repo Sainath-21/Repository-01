@@ -10,6 +10,7 @@ public class A {
 	}
 	
 	
+
 	
 	
 	
@@ -26,6 +27,17 @@ public class A {
 
 		
 	}
+
+
+	public void m2()
+	{
+		System.out.println("task123 pending");
+
+		
+	}
+	
+	
+
 	
 	public static void main(String[] args) {
 		
