@@ -10,6 +10,23 @@ public class A {
 	}
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public void m3()
+	{
+		System.out.println("task456 completed");
+
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		
