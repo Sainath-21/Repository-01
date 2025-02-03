@@ -11,6 +11,19 @@ public class B {
 	public void sub()
 	{
 		System.out.println("dev sub() method is added Payment Module");
+		
+		
+		
+	}
+	
+	
+	
+	public void div()
+	{
+		System.out.println("dev div() method is added Payment Module");
+		
+		
+		
 	}
 	public static void main(String[] args) {
 
