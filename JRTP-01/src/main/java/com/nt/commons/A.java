@@ -8,17 +8,7 @@ public class A {
 
 		System.out.println("m1 method from class A Team Lead Is Modified");
 	}
-	
-	
 
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	public void m3()
@@ -36,13 +26,13 @@ public class A {
 		
 	}
 	
-	
+	public void m4()
+	{
+		System.out.println("task123 pending");
 
-
-	
-	
-	
-	
+		
+	}
+		
 	public void m5()
 	{
 		System.out.println("task456 priority task");
