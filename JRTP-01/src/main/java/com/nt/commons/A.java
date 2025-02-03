@@ -38,6 +38,22 @@ public class A {
 	
 	
 
+
+	
+	
+	
+	
+	public void m5()
+	{
+		System.out.println("task456 priority task");
+
+		
+	}
+	
+	
+	
+	
+	
 	
 	public static void main(String[] args) {
 		
